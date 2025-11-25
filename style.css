@@ -46,10 +46,14 @@ h2{
 .wiki_banner{
     display: flex;
 }
+.wiki_banner_img{
+    width: 570;
+    height: 500;
+}
 .wiki_p_img{
     position: absolute; 
     top: 50%; 
-    left: 50%;      
+    left: 20%;      
     transform: translate(-50%, -50%); 
     color: white; 
     text-shadow: 2px 2px 4px black;
